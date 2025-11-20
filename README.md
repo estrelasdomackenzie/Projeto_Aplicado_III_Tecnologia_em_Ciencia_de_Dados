@@ -571,12 +571,6 @@ Este documento contém:
 - Discussão e conclusões
 - Referências bibliográficas
 
-### Wiki do Projeto
-
-Para documentação complementar, acesse o Wiki oficial do projeto:
-
-**Link:** [https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados.wiki.git](https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados.wiki.git)
-
 ### Navegação da Wiki
 
 - **Home**: Descrição geral e objetivos
