@@ -87,7 +87,7 @@ estrelasdomackenzie/
 │
 ├── README.md                                    # Documentação principal
 ├── requirements.txt                             # Dependências do projeto
-├── PROJETO_APLICADO_III_Documento_Tecnico.docx # Documentação técnica completa
+├── PROJETO_APLICADO_III_Documento_Tecnico.pdf # Documentação técnica completa
 │
 ├── Sistema_Recomendação.py                     # Aplicação web Flask
 ├── Analise_Sistema_Recomendacao.py             # Análise e avaliação do modelo
@@ -417,7 +417,7 @@ O sistema mapeia doenças para mais de 20 especialidades médicas, incluindo:
 | Arquivo | Descrição | Obrigatório |
 |---------|-----------|-------------|
 | `requirements.txt` | Lista de dependências Python | Sim |
-| `PROJETO_APLICADO_III_Documento_Tecnico.docx` | Documentação técnica completa do projeto | Sim (recomendado) |
+| `PROJETO_APLICADO_III_Documento_Tecnico.pdf` | Documentação técnica completa do projeto | Sim (recomendado) |
 | `static/mackenzie-logo.png` | Logo institucional | Não (opcional) |
 
 ---
@@ -560,7 +560,7 @@ Este projeto foi desenvolvido por estudantes do curso de **Tecnologia em Ciênci
 
 O projeto conta com documentação técnica detalhada disponível no repositório:
 
-**Arquivo:** `PROJETO_APLICADO_III_Documento_Tecnico.docx`
+**Arquivo:** `PROJETO_APLICADO_III_Documento_Tecnico.pdf`
 
 Este documento contém:
 - Fundamentação teórica do projeto
