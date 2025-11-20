@@ -12,7 +12,6 @@ Projeto desenvolvido como parte do **Projeto Aplicado III** do curso de **Tecnol
 ## Índice
 
 - [Descrição Geral](#descrição-geral)
-- [Apresentação do Projeto](#apresentação-do-projeto)
 - [Objetivo](#objetivo)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Repositório](#estrutura-do-repositório)
@@ -43,24 +42,6 @@ O sistema utiliza o algoritmo **K-Nearest Neighbors (KNN)** otimizado, alcançan
 - Comparação entre diferentes algoritmos de ML
 - Sistema de busca inteligente de sintomas
 - Recomendação de especialista com nível de confiança
-
----
-
-## Apresentação do Projeto
-
-### Vídeo de Apresentação
-
-Assista à apresentação completa do projeto no YouTube:
-
-**[Apresentação do Sistema de Recomendação de Médicos Especialistas](https://www.youtube.com/watch?v=VM3JHtZd4pA)**
-
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Apresentação-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=VM3JHtZd4pA)
-
-O vídeo apresenta:
-- Demonstração do sistema em funcionamento
-- Explicação da metodologia aplicada
-- Análise dos resultados obtidos
-- Considerações finais e trabalhos futuros
 
 ---
 
@@ -102,10 +83,11 @@ Desenvolver um modelo de Machine Learning que:
 ## Estrutura do Repositório
 
 ```
-Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados/
+estrelasdomackenzie/
 │
 ├── README.md                                    # Documentação principal
 ├── requirements.txt                             # Dependências do projeto
+├── PROJETO_APLICADO_III_Documento_Tecnico.docx # Documentação técnica completa
 │
 ├── Sistema_Recomendação.py                     # Aplicação web Flask
 ├── Analise_Sistema_Recomendacao.py             # Análise e avaliação do modelo
@@ -183,8 +165,8 @@ Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados/
 ### Passo 1: Clone o Repositório
 
 ```bash
-git clone https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados.git
-cd Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados
+git clone https://github.com/estrelasdomackenzie/PROJETO_APLICADO_III_-_Documento_T-cnico.git
+cd PROJETO_APLICADO_III_-_Documento_T-cnico
 ```
 
 ### Passo 2: Verifique a Versão do Python
@@ -434,7 +416,8 @@ O sistema mapeia doenças para mais de 20 especialidades médicas, incluindo:
 
 | Arquivo | Descrição | Obrigatório |
 |---------|-----------|-------------|
-| `requirements.txt` | Lista de dependências | Sim |
+| `requirements.txt` | Lista de dependências Python | Sim |
+| `PROJETO_APLICADO_III_Documento_Tecnico.docx` | Documentação técnica completa do projeto | Sim (recomendado) |
 | `static/mackenzie-logo.png` | Logo institucional | Não (opcional) |
 
 ---
@@ -573,15 +556,26 @@ Este projeto foi desenvolvido por estudantes do curso de **Tecnologia em Ciênci
 
 ## Documentação
 
-### Repositório GitHub
+### Documentação Técnica Completa
 
-**Link do repositório:** [https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados](https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados)
+O projeto conta com documentação técnica detalhada disponível no repositório:
+
+**Arquivo:** `PROJETO_APLICADO_III_Documento_Tecnico.docx`
+
+Este documento contém:
+- Fundamentação teórica do projeto
+- Metodologia detalhada
+- Análise exploratória dos dados
+- Descrição completa dos algoritmos implementados
+- Resultados experimentais
+- Discussão e conclusões
+- Referências bibliográficas
 
 ### Wiki do Projeto
 
-Para documentação completa, acesse o Wiki oficial do projeto:
+Para documentação complementar, acesse o Wiki oficial do projeto:
 
-**Link:** [Wiki do Projeto](https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados/wiki)
+**Link:** [https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados.wiki.git](https://github.com/estrelasdomackenzie/Projeto_Aplicado_III_Tecnologia_em_Ciencia_de_Dados.wiki.git)
 
 ### Navegação da Wiki
 
@@ -598,7 +592,7 @@ Para documentação completa, acesse o Wiki oficial do projeto:
 - **Instituição:** Universidade Presbiteriana Mackenzie
 - **Curso:** Tecnologia em Ciência de Dados
 - **Disciplina:** Projeto Aplicado III
-- **Período de Desenvolvimento:** Meados de 2025 até final do semestre 2025
+- **Período:** 2024/2025
 - **Ambiente de Desenvolvimento:** Google Colab / Jupyter Notebook
 
 ---
@@ -638,8 +632,6 @@ O Sistema de Recomendação de Médicos Especialistas desenvolvido atingiu os ob
 - Tempo de resposta adequado para uso em produção
 - Robustez e generalização comprovadas
 
-O projeto foi desenvolvido ao longo do semestre de 2025, desde meados do ano até sua conclusão no final do período letivo, demonstrando evolução técnica e aplicação prática dos conhecimentos adquiridos no curso de Tecnologia em Ciência de Dados.
-
 ### Trabalhos Futuros
 
 Possíveis melhorias e extensões:
@@ -659,7 +651,7 @@ Possíveis melhorias e extensões:
 
 Este projeto é desenvolvido para fins **acadêmicos** como parte do Projeto Aplicado III do curso de Tecnologia em Ciência de Dados da Universidade Presbiteriana Mackenzie.
 
-© 2025 - Todos os direitos reservados aos autores.
+© 2024-2025 - Todos os direitos reservados aos autores.
 
 ---
 
@@ -675,7 +667,7 @@ Para dúvidas, sugestões ou contribuições:
 
 ## Agradecimentos
 
-Agradecemos aos professores da disciplina de Projeto Aplicado III pelo suporte, orientação e feedback durante o desenvolvimento deste projeto ao longo do semestre de 2025.
+Agradecemos aos professores da disciplina de Projeto Aplicado III pelo suporte, orientação e feedback durante o desenvolvimento deste projeto.
 
 Agradecemos também à Universidade Presbiteriana Mackenzie pela infraestrutura e recursos disponibilizados.
 
@@ -684,8 +676,6 @@ Agradecemos também à Universidade Presbiteriana Mackenzie pela infraestrutura 
 <div align="center">
 
 **Desenvolvido com dedicação por estudantes do Mackenzie**
-
-**Projeto Aplicado III - 2025**
 
 ![Mackenzie](https://img.shields.io/badge/Mackenzie-Ciência%20de%20Dados-C8102E?style=for-the-badge)
 
